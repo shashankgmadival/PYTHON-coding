@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shashankgm
 - 👀 I’m interested in ... data scientist
 - 🌱 I’m currently learning ... data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shashankgm10@gmail.com
 
 <!---
