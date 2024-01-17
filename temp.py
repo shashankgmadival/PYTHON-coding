@@ -17,3 +17,23 @@ else:
 
 for i in range(5):
     print(f"Iteration {i + 1}")
+
+# to check even or odd number
+    
+num = [2,5,8,7,13,15]
+for i in num :
+    if i % 2 == 0:
+        print (i,"is a even number")
+    else :
+        print(i,"is odd number")
+
+
+num_list = [2, 5, 8, 7, 13, 15]
+
+for num in num_list:
+    if num % 2 == 0:
+        print(f"{num} is Even")
+    else:
+        print(f"{num} is Odd")
+
+
