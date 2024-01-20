@@ -28,12 +28,14 @@ for i in num :
         print(i,"is odd number")
 
 
+Print 'True' if a is greater than or equal to 5, 'False' otherwise
 num_list = [2, 5, 8, 7, 13, 15]
+for i in num_list:
+    if i>5 :
+        print("true")
+    else :
+        print("false")
+    i+=1
+    
 
-for num in num_list:
-    if num % 2 == 0:
-        print(f"{num} is Even")
-    else:
-        print(f"{num} is Odd")
-
-
+4. Take a string input of your name and store it as a list of separate letters.
