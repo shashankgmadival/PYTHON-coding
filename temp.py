@@ -39,3 +39,4 @@ for i in num_list:
     
 
 4. Take a string input of your name and store it as a list of separate letters.
+input
