@@ -37,3 +37,47 @@ print (a)
 a=10
 a=(float(a))
 print(a)
+
+# multiple assignment
+
+name,age,height="shashank",21,180.5
+
+print(name)
+print(age)
+print(height)
+
+# if the value are same
+
+a=b=c=d=e=10
+
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+
+# one code multiple methods are demonstrated
+
+a="shashank"
+
+print(len(a))
+
+print(a.find("a"))
+
+print(a.capitalize())
+
+print(a.upper())
+
+print(a.lower())
+
+print(a.isdigit())
+
+print(a.isalpha())
+
+print(a.count("s"))
+
+print(a.replace("a","o"))
+
+print(a*5)
+
+
