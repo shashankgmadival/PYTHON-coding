@@ -36,3 +36,47 @@ for i in list:
 
 # 2D-LIST
     
+drinks=['coffee','soda','tea']
+dinner=['pizza','hamburger','hotdog']
+dessert=['cake','ice-cream']
+
+food=[drinks,dinner,dessert]
+
+print(food)
+
+print(food[0][2])
+print(food[2][1])
+
+
+# Tuple
+
+student=('shasha',20,'male')
+print(student.count('shasha')) # it counts how many times "shasha" is repeated
+print(student.index('male'))
+
+for i in student :
+    print(i)
+
+if "shasha" in student:
+    print('yes')
+else:
+    print('no')
+
+
+# set
+    
+utensile={'fork','knife','spoon'}
+
+for x in utensile:
+    print(x)
+
+utensile.add('napkin')
+utensile
+utensile.remove('knife')
+utensile
+
+
+dish={'bowl','plate','cup'}
+utensile.update(dish) # it will update the utensiles with dish elements
+utensile
+
