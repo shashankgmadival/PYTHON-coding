@@ -1,1 +1,1 @@
-# dictionar
+# dictionary
