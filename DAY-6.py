@@ -27,3 +27,17 @@ b=2
 c=True
 d=False
 print(a+b+c+d)
+
+
+string = 'hello world'
+print(string[0:4])
+print(string[4:])
+print(string[-1:])
+print(string[:-1])
+print(string[::-1])
+print(string[::1])
+print(string[::2])
+
+
+nm='harry'
+print(nm[-4:-2])
