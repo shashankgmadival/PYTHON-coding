@@ -6,3 +6,7 @@ DAY-2 : Type casting, Slicing
 DAY-3 : List,2D-List,Tuple,Set
 
 DAY-4 : Dictionary
+
+DAY-5 : list , tuple index operstion
+
+DAY-6 : type casting and string slicing
