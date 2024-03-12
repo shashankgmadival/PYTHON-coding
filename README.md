@@ -10,3 +10,5 @@ DAY-4 : Dictionary
 DAY-5 : list , tuple index operstion
 
 DAY-6 : type casting and string slicing
+
+DAY-7 : timestamp,uppercase,lowercase
