@@ -36,4 +36,4 @@ print("one", "two", "three", sep="-")
 # Output: one-two-three
 
 print(1, 2, 3, 4, 5, sep=" | ")
-# Output: 1 | 2 | 3 | 4 | 5
+# Output: 1 | 2 | 3 | 4 | 5 
