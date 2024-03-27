@@ -36,6 +36,7 @@ print("one", "two", "three", sep="-")
 # Output: one-two-three
 
 print(1, 2, 3, 4, 5, sep=" | ")
+<<<<<<< HEAD
 # Output: 1 | 2 | 3 | 4 | 5
 
 #'The continue statement is used inside loops to skip the rest of the code inside the\loop for the current iteration and continue with the next iteration.'
@@ -52,3 +53,6 @@ for i in range(1, 11):
     print(i)
 
 
+=======
+# Output: 1 | 2 | 3 | 4 | 5 
+>>>>>>> cf3c2ebe25500cced46d12a4c979711f2ba1b6c4
