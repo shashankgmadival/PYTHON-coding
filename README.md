@@ -16,3 +16,7 @@ DAY-7 : timestamp,uppercase,lowercase
 DAY-8 : loops 
 
 DAY-9 : break,continue, end , sep commands
+
+DAY-10 : def function,
+
+DAY-11 : recurssion, sets
