@@ -37,3 +37,18 @@ print("one", "two", "three", sep="-")
 
 print(1, 2, 3, 4, 5, sep=" | ")
 # Output: 1 | 2 | 3 | 4 | 5
+
+#'The continue statement is used inside loops to skip the rest of the code inside the\loop for the current iteration and continue with the next iteration.'
+#When Python encounters a continue statement, it immediately stops executing the remaining code in the loop body for the current iteration and jumps to the next iteration.
+
+for i in range(1, 11):
+    if i % 2 == 0:
+        continue
+    print(i)
+
+for i in range(1, 11):
+    if i % 3 == 0:
+        continue
+    print(i)
+
+
