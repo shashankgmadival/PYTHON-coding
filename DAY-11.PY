@@ -1,4 +1,4 @@
-oewroee#recursive function 
+#recursive function 
 
 ## to get a factorial of a number 
 
